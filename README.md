@@ -14,6 +14,8 @@ In the project you will see the following structure:
 │   │   │           ├── api/
 │   │   │           ├── config/
 │   │   │           ├── dto/
+│   │   │           │   ├── request/
+│   │   │           │   └── response/
 │   │   │           ├── mapper/
 │   │   │           ├── model/
 │   │   │           ├── repository/
