@@ -1,5 +1,8 @@
 # TASK SERVICE
 
+## 🗺️ Database Diagram
+![Diagram](src/main/resources/static/database-diagram.jpg)
+
 ## 🏗️ Project Structure
 In the project you will see the following structure:
 ```
